@@ -1,0 +1,24 @@
+
+
+body {
+  background-color: #FFF8F3;
+}
+hr {
+  border-style: none;
+  border-top-style: solid;
+  border-color: black;
+  border-width:2px;
+  width: 100%;
+}
+h1 {
+  color: #637373;
+}
+
+h2 {
+  color: #637373;
+}
+
+.home {
+  height: 20px;
+  border: 0;
+}
