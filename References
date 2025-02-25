@@ -1,1 +1,32 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>References</title>
+    <link rel="stylesheet" href="css/styles.css">
+  </head>
+  <h1>Work References</h1>
+  <body>
+    <ul>
+      <li>Pedro Gomez: Material Planning Supervisor</li>
+      <li>Work email: pedro.gomez@stoneridge.com</li>
+    </ul>
+
+    <ul>
+      <li>Ignacio Sanchez: NPI Engineer</li>
+      <li>Work email: ignacio.antonio.sanchez@aptiv.com</li>
+    </ul>
+
+  <h1>Personal References</h1>
+  <body>
+    <ul>
+      <li>Antonio Flores: Embedded Software Engineer</li>
+      <li>Email: tonyfc19@gmail.com</li>
+    </ul>
+
+
+  <hr class="home">
+  <a class="back" href="index.html">Back</a><br>
+  </body>
+</html>
 
